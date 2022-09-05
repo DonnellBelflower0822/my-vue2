@@ -1,0 +1,8 @@
+{
+  "name": "my-vue2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xuxiaozhou/my-vue2.git",
+  "author": "xuxiaozhou <759811542@qq.com>",
+  "license": "MIT"
+}
